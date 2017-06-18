@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>HoloCaption-Peter</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\peter\Documents\HoloCaptions-Peter\HoloCaption-Peter\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\peter\Documents\HoloCaptions-Peter\HoloCaption-Peter\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
