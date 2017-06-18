@@ -1,0 +1,5 @@
+If you go into the "App" folder and click the holocaption-peter sln file, you should be able to run it directly on the hololens.
+
+There's a lot of extraneous files, but I basically only added the scroll bar with a code to choose between 5 colors. You can't really drag it because it moves with the captions, but you can click on the bar to move the slider.
+
+I also added a drag feature so that you can move it around. In Unity it seemed like I could move it anywhere, but on my emulator I could only move it horizontally and not vertically.
