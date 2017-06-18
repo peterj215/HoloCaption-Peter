@@ -1,0 +1,4 @@
+C:\Users\peter\Documents\HoloCaptions-Peter\HoloCaption-Peter\WindowsStoreApp\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\peter\Documents\HoloCaptions-Peter\HoloCaption-Peter\WindowsStoreApp\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\peter\Documents\HoloCaptions-Peter\HoloCaption-Peter\WindowsStoreApp\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\peter\Documents\HoloCaptions-Peter\HoloCaption-Peter\WindowsStoreApp\HoloCaption-Peter\HoloCaption-Peter.csproj;x86
